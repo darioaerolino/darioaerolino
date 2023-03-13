@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Falando um pouco sobre mim:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="" />
+<img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/64660577/224764443-7c9dff7e-f5c5-49c9-a62f-8228c786429a.gif" />
 
 - 💻 Eu sou Apaixonado por Tecnologia 🧐 ;
 - 👨🏽‍💻 Atualmente estou trabalhando de [Freela];
