@@ -7,8 +7,8 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/darioaerolino)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dario-aerolino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:darioaerolino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:darioaerolino@hotmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:darioaerolino@gmail.com )
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:darioaerolino@hotmail.com )
 &nbsp;
 
 <!-- Talking about you -->
@@ -17,13 +17,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/64660577/224764443-7c9dff7e-f5c5-49c9-a62f-8228c786429a.gif" />
 
-- 💻 Eu sou Apaixonado por Tecnologia 🧐 ;
-- 👨🏽‍💻 Atualmente estou trabalhando de [Freela];
-- 🌱 Atualmente estou aprendendo Kotlin(Android Nativo) e React Native ; 
-- 👯 Estou procurando colaborar em projetos 🤝 ;
-- 💬 Pergunte-me sobre qualquer coisa, estou feliz em ajudar;
-- ⚡️ Curiosidade: Estou Cursando ADS;
-- 📫 Você pode me contactar: darioaerolino@gmail.com;
+- 💻 Eu sou Apaixonado por Tecnologia 🧐 
+- 👨🏽‍💻 Atualmente estou trabalhando de **[Freela]**
+- 🌱 Atualmente estou aprendendo **Kotlin(Android Nativo) e React Native** 
+- 👯 Estou procurando colaborar em projetos 🤝 
+- 💬 Pergunte-me sobre qualquer coisa, estou feliz em ajudar
+- ⚡️ Curiosidade: **Estou Cursando ADS**
+- 📫 Você pode me contactar: **darioaerolino@gmail.com**
 
 **Linguagens e ferramentas:** 
 
