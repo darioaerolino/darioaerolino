@@ -1,3 +1,7 @@
+<p align="right" >
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdarioaerolino%2Fhit-counter&count_bg=%23B41EFF&title_bg=%23706868&icon=skyliner.svg&icon_color=%23E7E7E7&title=HITS+%2F+VIEWS&edge_flat=false"/></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="https://user-images.githubusercontent.com/64660577/227737008-8c75f74e-c660-4509-922a-9048409bcfa8.png" alt="Dario Aerolino" /></a>
@@ -17,8 +21,6 @@
   <a href="https://www.hackerrank.com/darioaerolino"><img width="32px" alt="Hackerrank" title="Hackerrank" src="https://user-images.githubusercontent.com/64660577/227737845-03f99974-1529-4201-b679-f3b86e499dd2.png"></a>
 </p>
 
-<!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
-
 ##
 
 <!--
@@ -27,7 +29,7 @@
  
 
 <details>	
-  <summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
+  <summary><a href="#"><img src="https://user-images.githubusercontent.com/64660577/227740857-6223c501-c401-4181-83c3-63bdf38da7e4.png"/></a><b> Github Profile Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioaerolino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=B41EFF&icon_color=79ff97" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioaerolino&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
@@ -44,7 +46,7 @@
 
 ### <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_open-source.png"/></a> My Open Souce Projects
 <details>
-  <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
+  <summary><b> <a href="#"><img src="https://user-images.githubusercontent.com/64660577/227741652-0df572d2-b46b-426f-a744-fc9994565b47.png"/></a> Academic Projects</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
@@ -180,7 +182,7 @@
 </details>
 
 <details>
-  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/docker.png"/></a> DevOps</b></summary>
+  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/docker.png"/></a> Main Tools </b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
