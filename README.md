@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img width="20%" src="https://user-images.githubusercontent.com/64660577/227626253-e6020e23-c65e-4fa5-b3cd-7de20965f75a.png" alt="Jonah Lawrence" /></a>
+    <img src="https://user-images.githubusercontent.com/64660577/227737008-8c75f74e-c660-4509-922a-9048409bcfa8.png" alt="Dario Aerolino" /></a>
 </p>
 
 <p align="center">
@@ -12,13 +12,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/dario-aerolino/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://user-images.githubusercontent.com/64660577/227638524-32a29dcf-a5d3-4e36-b260-69ae4867ea90.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://github.com/darioaerolino" alt="Github" title="GithUb" ><img width="32px" src="https://user-images.githubusercontent.com/64660577/227737295-329e8638-de46-4d69-b79f-78539e2dab30.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://www.hackerrank.com/darioaerolino"><img width="32px" alt="Hackerrank" title="Hackerrank" src="https://user-images.githubusercontent.com/64660577/227737845-03f99974-1529-4201-b679-f3b86e499dd2.png"></a>
 </p>
 
 <!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
@@ -32,8 +28,8 @@
 
 <details>	
   <summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioaerolino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=B41EFF&icon_color=79ff97" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioaerolino&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
 </details>
 
