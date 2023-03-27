@@ -38,7 +38,7 @@
 <details>
   <summary><b><img width="25px" src="https://user-images.githubusercontent.com/64660577/227963415-fa47d49a-5c82-472c-9472-afe079cea270.png"/></a> Languages and Tools </b></summary>
 	
- > Tools, languages and other things I'm studying.
+ > Tools, languages and other things I'm Learning
 
 <table>
   <tr>
