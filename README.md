@@ -31,9 +31,9 @@
   <summary><a href="#"><img width="24px" src="https://user-images.githubusercontent.com/64660577/227740857-6223c501-c401-4181-83c3-63bdf38da7e4.png"/></a><b> Github Profile Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darioaerolino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=B41EFF&icon_color=79ff97" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioaerolino&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
-  <br/>
-</details>
 <br/>
+</details>
+
 
 <details>
   <summary><b><img width="25px" src="https://user-images.githubusercontent.com/64660577/227963415-fa47d49a-5c82-472c-9472-afe079cea270.png"/></a> Languages and Tools </b></summary>
@@ -42,116 +42,107 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="48" height="48" alt="Css" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>React js / Native
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="28" height="28" alt="HTML" />
+	      </a>
+	      <br>HTML
+	    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="28" height="28" alt="Css" />
+	      </a>
+	      <br>CSS
+	    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="Javascript" />
+	      </a>
+	      <br>JavaScript
+	    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="28" height="28" alt="React" />
+	      </a>
+	      <br>React Js / Native
+	    </td>
+  </tr>
+  <tr>    
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="28" height="28" alt="Java" />
+	      </a>
+	      <br>Java
+	    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="28" height="28" alt="Kotlin" />
+	      </a>
+	      <br>Kotlin
+	    </td>
+	    <td align="center" width="80">
+	      <a href="#macropower-tech" >
+		<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="28" height="28" alt="Python" />
+	      </a>
+	      <br>Python
+	    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="28" height="28" alt="NodeJs" />
+	      </a>
+	      <br>Node
+	    </td>
+  <tr>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="28" height="28" alt="MongoDB" />
+	      </a>
+	      <br>Mongo DB
+	    </td>
+	     <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="28" height="28" alt="MySql" />
+	      </a>
+	      <br>MySql
+	    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" height="28" alt="Firebase" />
+	      </a>
+	      <br>Firebase
+	    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="28" height="28" alt="SQLite" />
+	      </a>
+	      <br>SQLite
+	    </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td>
+	    <td align="center" width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="28" height="28" alt="Android" />
+	      </a>
+	      <br>Android
+	    </td>
+	    <td align="center"  width="80">
+	      <a href="">
+		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="28" height="28" alt="AWS" />
+	      </a>
+	      <br>AWS
+	    </td>
+	    <td align="center" width="80">
+	      <a href="" >
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28" alt="Git" />
+	      </a>
+	      <br>Git
+	    </td>
+	    <td align="center" width="80">
+	      <a href="" >
+	     <img src="https://github.com/file-icons/icons/blob/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/PowerShell.svg" width="28" height="28" alt="PowerShell" />
+	      </a>
+	      <br>PowerShell
+	    </td>
   </tr>
 </table>
   
@@ -177,16 +168,6 @@
       	<td>
 		<a href="https://github.com/darioaerolino/teoria-da-computacao">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=darioaerolino&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	</td>
-      </tr>
-      <tr>
-	<td>
-		<a href="https://github.com/darioaerolino/introducao-a-programacao-orientada-a-objetos">
-		<b>Introdução a Programação Orientada à Objetos</b></a>
-	</td>
-        <td>
-		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
     </tbody>
