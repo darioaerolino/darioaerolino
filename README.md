@@ -163,11 +163,11 @@
       <tr>
       	<td>
 		<a href="https://github.com/darioaerolino">
-		<b>Teste1</b></a>
+		<b>Calculator IMC</b></a>
 	</td>
       	<td>
-		<a href="https://github.com/darioaerolino/teoria-da-computacao">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=darioaerolino&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		<a href="https://github.com/darioaerolino/calcimc">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=darioaerolino&repo=calcimc&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
     </tbody>
