@@ -149,29 +149,64 @@
   <br />
 </details>
 
-<details>
-  <summary><b> <a href="#"><img src="https://user-images.githubusercontent.com/64660577/227741652-0df572d2-b46b-426f-a744-fc9994565b47.png"/></a> Projects </b>
+<details open>
+
+> Learning with small projects and exercisies 
+	
+  <summary><b> <a href="#"><img src="https://user-images.githubusercontent.com/64660577/227741652-0df572d2-b46b-426f-a744-fc9994565b47.png"/></a> Learning </b>
   </summary>
-  <table>
-    <thead align="center">
-      <tr border: none;>
-	<td><b><a href="#"></a>Projects</b></td>
-        <td><b><a href="#"></a>Summary</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-      	<td>
-		<a href="https://github.com/darioaerolino">
-		<b>Calculator IMC</b></a>
-	</td>
-      	<td>
-		<a href="https://github.com/darioaerolino/calcimc">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=darioaerolino&repo=calcimc&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	</td>
-      </tr>
-    </tbody>
-  </table>
+	<ul>
+  	<li><details>
+	  <summary><b> <a href="##"><img width="24px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></a> React Native</b>
+	 </summary>
+		    <table>
+		    <thead align="center">
+		      <tr border: none;>
+			<td><b><a href="#"></a>Projects</b></td>
+			<td><b><a href="#"></a>Summary</b></td>
+		      </tr>
+		    </thead>
+		    <tbody>
+		      <tr>
+			<td>
+				<a href="https://github.com/darioaerolino/calcimc">
+				<b>Calculator IMC</b></a>
+			</td>
+			<td>
+				<a href="https://github.com/darioaerolino/calcimc">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=darioaerolino&repo=calcimc&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+			</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		<br />
+	</details></li>
+	<li><details>
+	 <summary><b> <a href="##"><img width="24px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/></a> Python </b>
+	 </summary>
+		    <table>
+		    <thead align="center">
+		      <tr border: none;>
+			<td><b><a href="#"></a>Projects</b></td>
+			<td><b><a href="#"></a>Summary</b></td>
+		      </tr>
+		    </thead>
+		    <tbody>
+		      <tr>
+			<td>
+				<a href="https://github.com/darioaerolino/calcimc">
+				<b>Calculator IMC</b></a>
+			</td>
+			<td>
+				<a href="https://github.com/darioaerolino/calcimc">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=darioaerolino&repo=calcimc&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+			</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		<br />
+		</details></li>
+	</ul>
   <br />
 </details>
 
